@@ -17,6 +17,8 @@ import org.testng.Assert;
 
 public class StandAloneTest {
 
+
+	//new comments are added
 	public static void main(String[] args) 
 	{
 		String productNm = "ZARA COAT 3";
